@@ -8,7 +8,7 @@ I'm on a continuous learning journey and aim to connect with the tech community 
 - 🍃🌙❤️ I have a fondness for gazing at the moon and find joy in observing its beauty.
 
 ## Connect with Me
-- 💼 [LinkedIn](Your LinkedIn Profile Link)
+<!--- 💼 [LinkedIn](Your LinkedIn Profile Link)-->
 - 🐦 [Twitter](hadi_ynwl)
 - 📧 [Email](0xhadiworld@gmail.com)
 
